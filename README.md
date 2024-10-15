@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Organized, collaborative, and highly skilled iOS developer with 10+ years of professional experience.<br>🎮 First 1.5 years as a game developer, then transitioned to building and maintaining mobile applications.<br>📱 Over 2 years of non-professional experience in UI/UX design for mobile applications.<br>🎨 Passionate about creating beautiful interfaces and delivering user-friendly experiences, which I believe are key components of a great app.<br>🔗 Explore my design portfolio on Dribbble: dribbble.com/ekudarauskas/shots
+💼 Organized, collaborative, and highly skilled iOS developer with 10+ years of professional experience.<br>🎮 First 1.5 years as a game developer, then transitioned to building and maintaining mobile applications.<br>📱 Over 2 years of non-professional experience in UI/UX design for mobile applications.<br>🎨 Passionate about creating beautiful interfaces and delivering user-friendly mobile designs.<br>🔗 Explore my design portfolio on Dribbble: dribbble.com/ekudarauskas/shots
 
 
 ## 🌐 Socials:
